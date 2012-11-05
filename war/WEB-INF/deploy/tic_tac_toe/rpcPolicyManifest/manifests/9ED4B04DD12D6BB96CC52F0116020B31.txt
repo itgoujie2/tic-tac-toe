@@ -1,0 +1,2 @@
+serviceClass: com.ttt.client.MoveService
+path: D9005D000B1B9C52388EAF3C37182871.gwt.rpc
